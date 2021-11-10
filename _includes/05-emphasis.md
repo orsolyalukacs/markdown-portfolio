@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+coding mostly in> __javascript__ *react* *node.js* _python_
+learning to play> __kalimba__ 🎹
